@@ -45,7 +45,7 @@
                         <a href="#gaia" class="dropdown-toggle" data-toggle="dropdown">
                             <i class="fa fa-share-alt"></i> Share
                         </a>
-                        <ul class="dropdown-menu dropdown-danger">
+                        <ul class="dropdown-menu dropdown-success">
                             <li>
                                 <a href="#"><i class="fa fa-facebook-square"></i> Facebook</a>
                             </li>
@@ -70,7 +70,7 @@
                     <div class="title-area">
                         <h5 class="subtitle text-gray">Glad to Talk With You</h5>
                         <h2>Contact Us</h2>
-                        <div class="separator separator-danger">✻</div>
+                        <div class="separator separator-success">✻</div>
                         <p class="description">In this area you can write some interesting description about the projects that your team created. Don't forget to add some awesome images under this description, like the beautiful ones that we added.</p>
                     </div>
 
@@ -110,7 +110,7 @@
                                         </div>
                                         <div>
                                             <div class="col-md-2 col-md-offset-5">
-                                                <button type="button" class="btn btn-danger btn-fill">
+                                                <button type="button" class="btn btn-success btn-fill">
                                                     Contact Us
                                                 </button>
                                             </div>

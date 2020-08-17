@@ -4,7 +4,7 @@
 <div class="section section-header section-header-about">
         <div class="parallax filter filter-color-black">
             <div class="image"
-                style="background-image:url('{{ url('/img/vlad-tchompalov-dQkXoqQLn40-unsplash3.jpg') }}')">
+                style="background-image:url('{{ url('/img/vlad-tchompalov-dQkXoqQLn40-unsplash4.jpg') }}')">
             </div>
             <div class="container">
                 <div class="content">
@@ -23,7 +23,7 @@
                         <div class="title-area">
                             <h5 class="subtitle text-gray">Est. 2020</h5>
                             <h2>Who i am section</h2>
-                            <div class="separator separator-danger">✻</div>
+                            <div class="separator separator-success">✻</div>
                         </div>
                     </div>
                     <div class="col-md-7 col-md-offset-1">
@@ -69,14 +69,14 @@
             <div class="row">
                 <div class="title-area">
                     <h2>Our Services</h2>
-                    <div class="separator separator-danger">✻</div>
+                    <div class="separator separator-success">✻</div>
                     <p class="description">We promise you a new look and more importantly, a new attitude. We build that by getting to know you, your needs and creating the best looking clothes.</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="info-icon">
-                        <div class="icon text-danger">
+                        <div class="icon text-success">
                             <i class="pe-7s-car"></i>
                         </div>
                         <h3>Delivery</h3>
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="info-icon">
-                        <div class="icon text-danger">
+                        <div class="icon text-success">
                             <i class="pe-7s-graph1"></i>
                         </div>
                         <h3>Sales</h3>
@@ -94,7 +94,7 @@
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="info-icon">
-                        <div class="icon text-danger">
+                        <div class="icon text-success">
                             <i class="pe-7s-note2"></i>
                         </div>
                         <h3>Content</h3>
@@ -103,7 +103,7 @@
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="info-icon">
-                        <div class="icon text-danger">
+                        <div class="icon text-success">
                             <i class="pe-7s-music"></i>
                         </div>
                         <h3>Music</h3>
@@ -120,7 +120,7 @@
             <div class="text-area">
                 <div class="title-area">
                     <h2>Collaborators</h2>
-                    <div class="separator separator-danger">✻</div>
+                    <div class="separator separator-success">✻</div>
                     <p class="description">There are two me's when I take a picture. As Wolf I take pictures to be sold and as Bear all of them are free of charge, take his as a philanthropist.</p>
                 </div>
             </div>
@@ -131,7 +131,7 @@
                             <div class="col-md-4">
                                 <div class="card card-member card-plain">
                                     <div class="content">
-                                        <div class="avatar avatar-danger">
+                                        <div class="avatar avatar-dansuccessger">
                                             <img alt="..." class="img-circle" src="../assets/img/faces/face_1.jpg" />
                                         </div>
                                         <div class="description">
@@ -144,7 +144,7 @@
                             <div class="col-md-4">
                                 <div class="card card-member card-plain">
                                     <div class="content">
-                                        <div class="avatar avatar-danger">
+                                        <div class="avatar avatar-success">
                                             <img alt="..." class="img-circle" src="../assets/img/faces/face_4.jpg" />
                                         </div>
                                         <div class="description">
@@ -157,7 +157,7 @@
                             <div class="col-md-4">
                                 <div class="card card-member card-plain">
                                     <div class="content">
-                                        <div class="avatar avatar-danger">
+                                        <div class="avatar avatar-success">
                                             <img alt="..." class="img-circle" src="../assets/img/faces/face_3.jpg" />
                                         </div>
                                         <div class="description">
@@ -170,7 +170,7 @@
                             <div class="col-md-4">
                                 <div class="card card-member card-plain">
                                     <div class="content">
-                                        <div class="avatar avatar-danger">
+                                        <div class="avatar avatar-success">
                                             <img alt="..." class="img-circle" src="../assets/img/faces/face_5.jpg" />
                                         </div>
                                         <div class="description">
@@ -183,7 +183,7 @@
                             <div class="col-md-4">
                                 <div class="card card-member card-plain">
                                     <div class="content">
-                                        <div class="avatar avatar-danger">
+                                        <div class="avatar avatar-success">
                                             <img alt="..." class="img-circle" src="../assets/img/faces/face_2.jpg" />
                                         </div>
                                         <div class="description">
@@ -196,7 +196,7 @@
                             <div class="col-md-4">
                                 <div class="card card-member card-plain">
                                     <div class="content">
-                                        <div class="avatar avatar-danger">
+                                        <div class="avatar avatar-success">
                                             <img alt="..." class="img-circle" src="../assets/img/faces/face_6.jpg" />
                                         </div>
                                         <div class="description">

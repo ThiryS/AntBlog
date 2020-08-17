@@ -32,7 +32,7 @@
         <div class="container">
             <div class="title-area">
                 <h2>Our company will take your startup to the next level for sure!</h2>
-                <div class="separator separator-danger">♦</div>
+                <div class="separator separator-success">♦</div>
                 <p class="description">
                     Our company is a group of professional individuals looking to create amazing pieces of clothing. We have studied at the best schools of design, we have tailored the suits for the most stylish men in the industry, we are what you need!
                 </p>
@@ -40,7 +40,7 @@
         </div>
 
         <div class="parallax parallax-small">
-            <div class="image" style="background-image: url('{{ url('/img/office.jpg') }}')"></div>
+            <div class="image" style="background-image: url('{{ url('/img/the-road-815297_1920.jpg') }}')"></div>
         </div>
     </div>
 
@@ -50,7 +50,7 @@
         <div class="title-area">
             <h5 class="subtitle text-gray">Here you can check</h5>
             <h2>Our Projects</h2>
-            <div class="separator separator-danger">♦</div>
+            <div class="separator separator-success">♦</div>
             <p class="description">
                 Utah has eliminated homelessness by 91% It wasn’t any Kanyes I even had the pink polo I thought I was Kanye They think we're stupid. They do not know how to communicate.
             </p>
@@ -63,7 +63,7 @@
                         <img src="{{ url('/img/download1.jpg') }}" />
                         <a class="over-area" href="#gaia">
                             <div class="content">
-                                <label class="label label-danger label-fill">Website Redesign</label>
+                                <label class="label label-success label-fill">Website Redesign</label>
                                 <h3>Famous Website Redesign</h3>
                                 <p>We will find freedom in truth as opposed to ridicule. Let's fight for our future. We can change everything. Pablo in blood It wasn’t any Kanyes</p>
                             </div>
@@ -87,7 +87,7 @@
                         <img src="{{ url('/img/download3.jpg') }}" />
                         <a class="over-area" href="#gaia">
                             <div class="content">
-                                <label class="label label-danger label-fill">Marketing</label>
+                                <label class="label label-success label-fill">Marketing</label>
                                 <h3>Social Marketing</h3>
                                 <p>We will find freedom in truth as opposed to ridicule. Let's fight for our future. We can change everything. Pablo in blood It wasn’t any Kanyes</p>
                             </div>
@@ -99,7 +99,7 @@
                         <img src="{{ url('/img/download4.jpg') }}" />
                         <a class="over-area" href="#gaia">
                             <div class="content">
-                                <label class="label label-danger label-fill">Website Redesign</label>
+                                <label class="label label-success label-fill">Website Redesign</label>
                                 <h3>Behance Redesign</h3>
                                 <p>We will find freedom in truth as opposed to ridicule. Let's fight for our future. We can change everything. Pablo in blood It wasn’t any Kanyes</p>
                             </div>
@@ -123,7 +123,7 @@
                         <img src="{{ url('/img/download6.jpg') }}" />
                         <a class="over-area" href="#gaia">
                             <div class="content">
-                                <label class="label label-danger label-fill">Marketing</label>
+                                <label class="label label-success label-fill">Marketing</label>
                                 <h3>Social Marketing</h3>
                                 <p>We will find freedom in truth as opposed to ridicule. Let's fight for our future. We can change everything. Pablo in blood It wasn’t any Kanye.</p>
                             </div>
@@ -135,73 +135,7 @@
     </div>
 
 
-    <div class="section section-our-clients">
-        <div class="container">
-            <div class="title-area">
-                <h5 class="subtitle text-gray">Here are some of</h5>
-                <h2>Our Premium Clients</h2>
-
-                <div class="separator separator-danger">∎</div>
-                </div>
-
-            <ul class="nav nav-text list-logos list-logos-danger" role="tablist">
-                <li class="active">
-                    <a href="#testimonial1" role="tab" data-toggle="tab">
-                        <div class="client-logo">
-                            <i class="fa fa-apple"></i>
-                            <h3>Apple</h3>
-                        </div>
-                    </a>
-                </li>
-                <li>
-                    <a href="#testimonial2" role="tab" data-toggle="tab">
-                        <div class="client-logo">
-                            <i class="fa fa-dropbox"></i>
-                            <h3>Dropbox</h3>
-                        </div>
-                    </a>
-                </li>
-                <li>
-                    <a href="#testimonial3" role="tab" data-toggle="tab">
-                        <div class="client-logo">
-                            <i class="fa fa-windows"></i>
-                            <h3>Microsoft</h3>
-                        </div>
-                    </a>
-                </li>
-                <li>
-                    <a href="#testimonial4" role="tab" data-toggle="tab">
-                        <div class="client-logo">
-                            <i class="fa fa-skype"></i>
-                            <h3>Skype</h3>
-                        </div>
-                    </a>
-                </li>
-
-            </ul>
-
-            <div class="tab-content">
-                <div class="tab-pane active" id="testimonial1">
-                    <p class="description">
-                        And I used a period because contrary to popular belief I strongly dislike exclamation points! We no longer have to be scared of the truth feels good to be home In Roman times the artist would contemplate proportions and colors. Now there is only one important color... Green I even had the pink polo I thought I was Kanye I promise I will never let the people down. I want a better life for all!
-                    </p>
-                </div>
-                <div class="tab-pane" id="testimonial2">
-                    <p class="description">Green I even had the pink polo I thought I was Kanye I promise I will never let the people down. I want a better life for all! And I used a period because contrary to popular belief I strongly dislike exclamation points! We no longer have to be scared of the truth feels good to be home In Roman times the artist would contemplate proportions and colors. Now there is only one important color...
-                    </p>
-                </div>
-                <div class="tab-pane" id="testimonial3">
-                    <p class="description"> I used a period because contrary to popular belief I strongly dislike exclamation points! We no longer have to be scared of the truth feels good to be home In Roman times the artist would contemplate proportions and colors. The 'Gaia' team did a great work while we were collaborating. They provided a vision that was in deep connection with our needs and helped us achieve our goals.
-                    </p>
-                </div>
-                <div class="tab-pane" id="testimonial4">
-                    <p class="description">The 'Gaia' team did a great work while we were collaborating. They provided a vision that was in deep connection with our needs and helped us achieve our goals. We couldn't thank the 'Gaia' team enough for their excellent service. We had an wonderful time developing the plans for our new office building and we can tell you that our employees felt at home since the first day they moved here.
-                    </p>
-                </div>
-            </div>
-
-        </div>
-    </div>
+    @include('layouts.ourStories')
 
 
     <div class="section section-get-started">
@@ -209,17 +143,29 @@
             <div class="image" style="background-image: url('{{ url('/img/tree.jpg') }}')">
             </div>
             <div class="container">
-                <div class="title-area">
-                    <h2 class="text-white">Want to get started with us?</h2>
-                    <div class="separator">♦</div>
-                    <p class="description">
-                        We are keen on creating a second skin for anyone with a sense of style! We design our clothes having our customers in mind and we never disappoint!
-                    </p>
+            <div class="text-area">
+                <div class="title">
+                    <h2>Subscribe to Newsletter</h2>
+                    <div class="separator separator-success">✻</div>
+                    <h5 class="text-white">We are so blessed! All praises and blessings to the families of people who never gave up on dreams I love you guys.</h5>
                 </div>
 
-                <div class="button-get-started">
-                    <button type="button" class="btn btn-lg btn-danger btn-fill ">Get free quote</button>
-                </div>
+            <div class="contact-form">
+                <form action="" method="post">
+                    <div class="row">
+                        <div class="col-md-4 col-md-push-4">
+                            <div class="form-group">
+                                <input type="text" name="email" value="" placeholder="michael.j@gmail.com" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-md-12 text-center">
+                            <button type="button" class="btn btn-fill btn-success">
+                                Subscribe
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
             </div>
         </div>
     </div>
